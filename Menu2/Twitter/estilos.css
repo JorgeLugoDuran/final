@@ -1,0 +1,129 @@
+html, body {
+height: 100%;
+margin: 0;
+background-color: #DDDADA;
+}
+div {
+height: 100%;
+background-color: #FEFDFD;
+float: left;
+}
+#left {
+width:230px;
+margin: 2px;
+}
+#center {
+margin: 2px;
+width: calc(100% - 600px);
+}
+#right {
+margin: 2px;
+width: 300px;
+}
+#left{
+		padding: 15px 25px;
+		cursor: pointer;
+	}
+	button{
+		background: #3CDEFB;
+  		font-size: 27px;
+  		border-radius: 15px;
+
+
+	}
+	#logo>img{
+			height: 50%;
+		}
+		img{
+			height: 50px;
+			margin-right: 10px;
+		  }
+		  ul{
+			height: 100%;
+			list-style: none;
+		}
+		li{
+			position: relative;
+			float: left;
+			padding-left: 20px;
+			padding-right: 20px;
+			box-sizing: border-box;
+			height: 20%;
+			line-height: 40px; 
+			text-transform: uppercase; 
+			font-size: 16px;
+			cursor: pointer;
+		}
+		 li>img{
+			height: 16px;
+			margin-right: 5px;
+		}
+		#post {
+			background-color: with;
+			height:70px;
+			width: 750px;
+
+
+		}
+		#post2 {
+			background-color: transparent;
+			float: right;
+		}
+		div>img{
+			height: 30px;
+			margin-right: 10px;
+	
+		}
+
+
+	#usuario{
+		width: 200px;
+		padding: 10px 20px;
+	}
+		p{
+			
+			font-size: 16px;
+			line-height: 60px;
+			margin-right: 15px;
+		}
+		#usuario-img{
+			height: 50px;
+			width: 50px;
+			border-radius: 50%;		
+		}
+		#usuario-img>img{
+			height: 100%;
+		}
+		#pos-img>img{
+			height: 250px;
+			width: 400px;
+			
+		}
+		#barra{
+			height: 50px;
+			width: 700px;
+		}
+#barra1{
+	float: right;
+}
+
+
+#usuari{
+		margin: 2px;
+width: calc(100% - 600px);
+	}
+		p{
+			
+			font-size: 16px;
+			line-height: 60px;
+			margin-right: 15px;
+		}
+		#usuari-img{
+			height: 50px;
+			width: 50px;
+			border-radius: 50%;		
+		}
+		#usuari-img>img{
+			height: 100%;
+		}
+		
